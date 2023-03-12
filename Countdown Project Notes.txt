@@ -1,0 +1,6 @@
+👉Value of Differnce between current time & Ending time should be assigned to a variable.
+
+👉A Funtion should be created which will be used inside the setinterval()
+
+
+

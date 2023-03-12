@@ -1,0 +1,58 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: grey;
+    height: 100vh;
+}
+section
+{
+    text-align: center;
+    background-color: snow;
+    width: 50%;
+height: 50%;
+position:absolute;
+left: 20%;
+top: 30%;
+border-radius: 40px;
+}
+section p
+{
+    font-size:60px ;
+}
+#time_div
+{
+ display: flex;   
+ position: relative;
+    top: 10%;
+    left: 15%;
+    width: 65%;
+    height: 30%;
+    justify-content: space-evenly;
+}
+.time_value_unit_div
+{
+    display: flex;
+    flex-direction: column;
+    color: snow;
+    background-color: rgba(0, 0, 0, 0.703);
+font-size: 40px;
+height: 100%;
+
+}
+.time
+{
+  
+    width:40%;
+    margin-right: 10px;
+    
+}
+#Status
+{
+    position: relative;
+top: 14%;
+}
